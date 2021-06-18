@@ -17,6 +17,7 @@
 - (void)viewDidLoad
 {
 	[super viewDidLoad];
+	// viewDidLoad - добавление комментария
 }
 
 - (void)didReceiveMemoryWarning
